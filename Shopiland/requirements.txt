@@ -1,0 +1,10 @@
+pip install pytest==6.2.5
+pip install requests
+pip3 install python-dotenv
+pip install pytest-encode
+pip install requests-toolbelt
+pip3 install webdriver-manager
+pip install urllib3
+pip install pytest-html 
+pip install selenium==4.9.0
+pip install pytest-selenium==4.0.0

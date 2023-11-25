@@ -1,0 +1,4 @@
+Sat, 25 Nov 2023 02:30:48 logger.py[line:11] INFO ====== WebDriver manager ======
+Sat, 25 Nov 2023 02:30:49 logger.py[line:11] INFO Get LATEST chromedriver version for google-chrome
+Sat, 25 Nov 2023 02:30:50 logger.py[line:11] INFO Get LATEST chromedriver version for google-chrome
+Sat, 25 Nov 2023 02:30:50 logger.py[line:11] INFO Driver [C:\Users\Александр\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
